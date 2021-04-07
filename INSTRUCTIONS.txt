@@ -1,4 +1,4 @@
 The Code is available in the file "medical_expert_system.py" .
 
-For Executing the code directly Go inside the folder "Medical Expert System".
+For Executing the code directly Go inside the folder "Medical Expert System Application".
 Launch the executable file named "medical_expert_system.exe" and follow the intructions appearing on the terminal.
