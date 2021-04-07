@@ -5,7 +5,7 @@ The aim of the product is to takes in the disease symptoms of the patient throug
 
 # Instructions
 * The Code is available in the file "medical_expert_system.py" .
-* For Executing the code directly Go inside the folder "Medical Expert System Application". Launch the executable file named "medical_expert_system.exe"
+* For Executing the code directly Go inside the folder "Medical Expert System Application" and launch the executable file named "medical_expert_system.exe"
 
 
 # Team Members
